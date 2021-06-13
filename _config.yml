@@ -1,10 +1,10 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: Tramcrazy's Blog
+description: A blog about cybersecurity, coding, technology and more!
+author: tramcrazy
+github: https://github.com/tramcrazy
+about: I'm a cybersecurity and programming enthusiast based in the UK, who loves writing about and filming projects.
+disqus_shortname: tramcrazy
+google_analytics: G-BQWRJ839GV
 
 enableTags: true
 tagarray: []
@@ -24,7 +24,7 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/tramcrazy"
 
 share:
   twitter_username: github.io
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://tramcrazy.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
