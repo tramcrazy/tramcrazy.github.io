@@ -3,7 +3,7 @@ description: A blog about cybersecurity, coding, technology and more!
 author: tramcrazy
 github: https://github.com/tramcrazy
 about: I'm a cybersecurity and programming enthusiast based in the UK, who loves writing about and filming projects.
-disqus_shortname: tramcrazy
+disqus_shortname:
 google_analytics: G-BQWRJ839GV
 
 enableTags: true
