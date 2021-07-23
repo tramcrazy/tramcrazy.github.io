@@ -6,7 +6,7 @@ categories: [tech,others]          # (custom) some categories, but makesure thes
 tags: [utterances,commenting,devlog]                      # (custom) tags only for meta `property="article:tag"`
 image: ProfilePic.png             # (custom) image only for meta `property="og:image"`, save your image inside path of `static/img/_posts`
 ---
-# TL,DR: Get [Utterances](https://utteranc.es), it's awesome.
+# TL;DR: Get [Utterances](https://utteranc.es), it's awesome.
 When I started this blog, I wanted an easy way for my readers to share their thoughts on the blog and the articles I write, as well as interacting with me.
 I started by installing [Disqus](https://disqus.com) onto the blog, and this seemed to work well. That was until I realised about the ads. As I was on the free plan, Disqus was showing tonnes of ads to my readers, which interfered with the commenting and reading experience. There were also numerous other issues for me.
 
